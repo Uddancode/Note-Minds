@@ -1,4 +1,6 @@
 ![Note-Minds Banner](public/Banner.png)
+![License](https://img.shields.io/badge/license-MIT-orange)
+![Author](https://img.shields.io/badge/Author-Uddancode-yellow)
 
 # 💥Introduction
 
@@ -33,13 +35,13 @@ In the ongoing era of AI models like Chatgpt, Gemini and DeepSeek or other the L
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js, React, JavaScript
-- **Styling**: Tailwind CSS, Radix UI, TipTap
-- **Authentication**: Clerk.js
-- **Backend/Database**: Convex
-- **AI Integration**: Google's Generative AI, LangChain
-- **PDF Processing**: PDF-parse, React-PDF, html2pdf.js, docx
-- **Additional Features**: PayPal integration, Dark mode
+- **Frontend**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Styling**: ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=flat&logo=radix-ui&logoColor=white) ![TipTap](https://img.shields.io/badge/TipTap-000000?style=flat&logo=tiptap&logoColor=white)
+- **Authentication**: ![Clerk.js](https://img.shields.io/badge/Clerk.js-3B82F6?style=flat&logo=clerk&logoColor=white)
+- **Backend/Database**: ![Convex](https://img.shields.io/badge/Convex-FF6F61?style=flat&logo=convex&logoColor=white)
+- **AI Integration**: ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+- **PDF Processing**: ![PDF-parse](https://img.shields.io/badge/PDF--parse-FF6F61?style=flat&logo=pdf&logoColor=white) ![React-PDF](https://img.shields.io/badge/React--PDF-20232A?style=flat&logo=react&logoColor=61DAFB) ![html2pdf.js](https://img.shields.io/badge/html2pdf.js-FF6F61?style=flat&logo=html5&logoColor=white) ![docx](https://img.shields.io/badge/docx-FF6F61?style=flat&logo=microsoft-word&logoColor=white)
+- **Additional Features**: ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white) ![Dark Mode](https://img.shields.io/badge/Dark_Mode-000000?style=flat&logo=darkreader&logoColor=white)
 
 ## ⚙️ Local Development
 
