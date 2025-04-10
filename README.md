@@ -1,4 +1,4 @@
-![Note-Minds Banner](public/banner.png)
+![Note-Minds Banner](public/Banner.png)
 
 # 💥Introduction
 
