@@ -77,4 +77,4 @@ npm run lint
 
 ## 📜 License
 
-This project is licensed under the MIT l  icense.
+This project is licensed under the MIT license.
