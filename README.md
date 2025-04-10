@@ -1,4 +1,4 @@
-![Note-Minds Banner](public/banner.png)
+![Note-Minds Banner](public/Banner.png)
 
 # 💥Introduction
 
@@ -77,4 +77,4 @@ npm run lint
 
 ## 📜 License
 
-This project is licensed under the AGPL-3.0 License.
+This project is licensed under the MIT l  icense.
