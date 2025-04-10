@@ -61,12 +61,17 @@ In the ongoing era of AI models like Chatgpt, Gemini and DeepSeek or other the L
    npm install
    ```
 
-3. Run the development server:
+3. Run the Convex database:
+   ```bash
+   npx convex dev
+   ```
+
+4. Run the development server:
    ```bash
    npm run dev
    ```
 
-4. Open your browser and visit `http://localhost:3000`.
+5. Open your browser and visit `http://localhost:3000`.
 
 ### Linting
 
